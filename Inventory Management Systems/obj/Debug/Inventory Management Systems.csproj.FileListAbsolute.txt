@@ -1,0 +1,44 @@
+c:\users\oheneba\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\bin\Debug\Inventory Management Systems.exe
+c:\users\oheneba\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\bin\Debug\Inventory Management Systems.pdb
+c:\users\oheneba\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory Management Systems.csprojResolveAssemblyReference.cache
+c:\users\oheneba\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Form1.resources
+c:\users\oheneba\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Properties.Resources.resources
+c:\users\oheneba\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory Management Systems.csproj.GenerateResource.Cache
+c:\users\oheneba\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory Management Systems.exe
+c:\users\oheneba\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory Management Systems.pdb
+C:\Users\OHENEBA\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Dashboard.resources
+C:\Users\OHENEBA\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Equipments.resources
+C:\Users\OHENEBA\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\bin\Debug\Inventory Management Systems.exe.config
+C:\Users\OHENEBA\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\bin\Debug\Google.Protobuf.dll
+C:\Users\OHENEBA\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\bin\Debug\MySql.Data.dll
+C:\Users\OHENEBA\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\bin\Debug\Google.Protobuf.xml
+C:\Users\OHENEBA\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\bin\Debug\MySql.Data.xml
+C:\Users\OHENEBA\documents\visual studio 2015\Projects\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Add_Computer.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\bin\Debug\Inventory Management Systems.exe.config
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory Management Systems.exe
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory Management Systems.pdb
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\bin\Debug\Inventory Management Systems.exe
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\bin\Debug\Inventory Management Systems.pdb
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\bin\Debug\Google.Protobuf.dll
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\bin\Debug\MySql.Data.dll
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\bin\Debug\Google.Protobuf.xml
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\bin\Debug\MySql.Data.xml
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory Management Systems.csprojResolveAssemblyReference.cache
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Add_Computer.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Dashboard.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Equipments.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Properties.Resources.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.scanners_printers.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory Management Systems.csproj.GenerateResource.Cache
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.add_printer.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Accessories.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Add_accessory.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Report.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.users.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.add_user.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.delete_user.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.delete_computer.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.delete_printer.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.delete_acc.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.user.resources
+C:\Users\OHENEBA\Desktop\Inventory Management System for Parliament\Inventory Management Systems\Inventory Management Systems\obj\Debug\Inventory_Management_Systems.Form1.resources
